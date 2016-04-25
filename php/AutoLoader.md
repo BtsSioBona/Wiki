@@ -12,3 +12,10 @@ class AutoLoader
   }
 }
 ```
+
+
+* Je l'appelle ensuite :
+```php
+require 'class/AutoLoader.php';
+AutoLoader::Register();
+```
