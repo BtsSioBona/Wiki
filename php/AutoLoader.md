@@ -1,10 +1,6 @@
+* Class statique avec une méthode statique Register que j'appelle pour éviter les Require de 10 class.
 
-
-<?php
-/**
- * Class statique avec une méthode statique Register
- * que j'appelle pour éviter les Require de 10 class.
- */
+```php
 class AutoLoader
 {
   static function Register(){
@@ -15,3 +11,4 @@ class AutoLoader
     require 'DIRNAME/' . $class_name . '.php';
   }
 }
+```
