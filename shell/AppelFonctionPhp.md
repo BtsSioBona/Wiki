@@ -1,2 +1,6 @@
-# Wiki
-Wiki personnel pour ne pas oublier certains trucs, à exporter plus tard
+* Appel d'une fonction php directement en ligne de commande
+
+
+```shell
+php -r "require 'FILENAME.php'; FUNCTIONNAME($PARAM);"
+```
