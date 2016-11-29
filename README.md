@@ -1,3 +1,2 @@
-
-![](http://i.imgur.com/Z5aV28x.gif)
-
+## Contribution
+Pour toute contribution merci de vous référer au [Contributor Guide](CONTRIBUTING.md)
