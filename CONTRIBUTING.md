@@ -17,7 +17,7 @@ Les fichiers et dossiers doivent respecter un format assez précis :
 
 ## Sorting
 
-Pour organisers les fichiers et dossiers dans un ordre spécifique il suffit de les préfixer avec un chiffre et un underscore.  
-Exemple :  
-`/docs/01_Hello_World.md` et `/docs/05_Features.md` vont donner *Hello World* avant *Features*, en outrepassant le triage par defaut (alphanumérique).  
-Il est possible d'echapé le chiffre en début de fichier. Pour le fichier `6 Ways to Get Rich`, vous pouvez entrer `/docs/_6_Ways_to_Get_Rich.md`
+Pour organiser les fichiers et dossiers dans un ordre spécifique, il suffit de les préfixer avec un chiffre et un underscore.  
+Exemple :  `/docs/01_Hello_World.md` et `/docs/05_Features.md` vont donner *Hello World* avant *Features*, en outrepassant le triage par défaut (alphanumérique).  
+Il est possible d'échappé le chiffre en début de fichier. Pour le fichier `6 Ways to Get Rich`, vous pouvez entrer `/docs/_6_Ways_to_Get_Rich.md`
+
