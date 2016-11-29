@@ -1,0 +1,25 @@
+{
+  "title": "Sio Wiki",
+  "tagline": "meh.",
+  "live": {
+    "clean_urls": true
+  },
+  "timezone": "Europe/Paris",
+  "html": {
+    "theme": "daux-blue",
+    "breadcrumbs": true,
+    "breadcrumb_separator": "Chevrons",
+    "toggle_code": true,
+    "date_modified": true,
+    "float": false,
+    "inherit_index": true,
+
+    "repo": "BtsSioBona/Wiki",
+    "edit_on_github": "BtsSioBona/Wiki/blob/master/docs",
+    "links": {
+      "Télécharger": "https://github.com/BtsSioBona/Wiki/archive/master.zip",
+      "GitHub Repo": "https://github.com/BtsSioBona/Wiki",
+      "Help/Support/Bugs": "https://github.com/BtsSioBona/Wiki/issues"
+    }
+  }
+}
