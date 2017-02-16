@@ -1,4 +1,4 @@
-## à mettre dans le bashrc Permet de gagner du temps avec le sudo juste avant, quand on l'oublie, meh!
+## insert sudo en début de commande avec un simple Alt+S
 
 
 ```bash
