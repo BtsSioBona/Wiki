@@ -17,7 +17,6 @@ Une collection de conseils pour aider à prendre vos compétences CSS pro.
 
 * [Conseils Professionnels](#protips)
 * [Soutien](#soutien)
-* [Lignes directrices des contributions](../../CONTRIBUTING.md)
 
 
 <div id="protips"></div>
